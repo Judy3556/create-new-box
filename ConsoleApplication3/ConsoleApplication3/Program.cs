@@ -11,7 +11,7 @@ namespace createbox
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
-            string dirPath = @"C:\TestDir";
+            string dirPath = @"C:\47";
 
             if (Directory.Exists(dirPath))
             {
